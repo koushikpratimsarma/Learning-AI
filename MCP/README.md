@@ -1,0 +1,1 @@
+This notebook contains my learning notes from the Hugging Face MCP Course.
